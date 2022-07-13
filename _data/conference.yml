@@ -106,9 +106,9 @@ program_chair:
   - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair. & Science Coordinator)
     org: University of Groningen, The Netherlands
     homepage: https://www.researchgate.net/profile/Carlos-Gabriel-4
-  -name: Dr. Matteo Guainazzi
-   org: European Space Agency, The Netherlands
-   homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi
+  - name: Dr. Matteo Guainazzi
+    org: European Space Agency, The Netherlands
+    homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi
 steering_committees:
   - name: TBD
     org: TBD
