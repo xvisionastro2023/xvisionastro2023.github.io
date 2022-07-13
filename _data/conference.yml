@@ -9,46 +9,26 @@ date: February 06-17, 2023
 logo_path: ./assets/images/logo2017.jpg
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/potch.jpg
+    image_path: ./assets/images/slideshow/NWULaw2use.jpg
     description: North West University Potchefstroom Campus
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.co.za
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/audi.jpg
+    image_path: ./assets/images/slideshow/Crab2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra 
     photographer_link: https://www.nwu.ac.za
   - id: 2
-    image_path: ./assets/images/slideshow/ExtraRoom.jpg
+    image_path: ./assets/images/slideshow/Cluster2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.ac.za
   - id: 3
-    image_path: ./assets/images/slideshow/outside.jpg
+    image_path: ./assets/images/slideshow/Giraffe2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.ac.za
-  - id: 4
-    image_path: ./assets/images/slideshow/pilansberg1.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/pilansberg2.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
-  - id: 6
-    image_path: ./assets/images/slideshow/pilansberg3.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 7
-    image_path: ./assets/images/slideshow/pilansberg4.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
 navbar:
   - id: 0
     label: Home
