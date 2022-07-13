@@ -9,23 +9,23 @@ date: February 06-17, 2023
 logo_path: ./assets/images/logo2017.jpg
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/NWULaw2use.jpg
+    image_path: ./assets/images/potch/NWULaw2use.jpg
     description: North West University Potchefstroom Campus
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.co.za
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/Crab2use.jpg
+    image_path: ./assets/images/potch/Crab2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra 
     photographer_link: https://www.nwu.ac.za
   - id: 2
-    image_path: ./assets/images/slideshow/Cluster2use.jpg
+    image_path: ./assets/images/potch/Cluster2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.ac.za
   - id: 3
-    image_path: ./assets/images/slideshow/Giraffe2use.jpg
+    image_path: ./assets/images/potch/Giraffe2use.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra
     photographer_link: https://www.nwu.ac.za
