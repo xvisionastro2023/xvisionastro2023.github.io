@@ -92,15 +92,17 @@ social_media:
   facebook_link: 
   twitter_link:
 program_chair:
-  - name: Dr. Sunil Chandra (Co-Chair & Local Coordinator)
+  - name: Dr. Sunil Chandra (Co-Chair. & Local Coordinator)
     org: South African Astronomical Observatory(SAAO) Cape Town 
     homepage: https://scsaao.github.io
-  - name: Dr. Carlos Gabriel, PCB Chair (Co-Chair) 
+  - name: Dr. Carlos Gabriel; PCB Chair (Chair.) 
     org: COSPAR
-    homepage: 
-  - name: Prof. Mariano Mendez I-How Chair. (Co-Chair. & Science Coordinator)
+    homepage: /
+  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair. & Science Coordinator)
     org: University of Groningen, The Netherlands
-    homepage: TBD
+    homepage: /
+  -name: Dr. Matteo Guainazzi
+   org: European Space Agency, The Netherlands
 steering_committees:
   - name: TBD
     org: TBD
