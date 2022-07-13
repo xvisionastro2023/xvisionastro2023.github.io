@@ -49,7 +49,7 @@ navbar:
     visible: True
   - id: 3
     label: Programs
-    path: /program.html
+    path: /
     visible: True
   - id: 4
     label: Venue
