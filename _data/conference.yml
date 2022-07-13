@@ -1,68 +1,79 @@
-full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologies
-short_title: Hotweb 2017
-email: hotweb2017@gmail.com
+full_title: X-ray Vision of Energetic Universe, a data driven approach 
+short_title: XVEU-CCW 2023
+email: xrayvision2023@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
-location: San Jose, CA, 2017
-date: October 14, 2017
-logo_path: ./assets/images/logo2017.jpg
+  Capacity Building Workshop in x-ray Astronomy-2023 jointly supported by International Astronomical 
+  union (IAU), Committee on Space Research (COSPAR)
+location: North West University Potchefstroom, South Africa 
+date: February 06-17, 2023
+#logo_path: ./assets/images/logo2017.jpg
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    image_path: ./assets/images/slideshow/potch.jpg
+    description: North West University Potchefstroom Campus
+    photographer_name: Sunil Chandra
+    photographer_link: www.nwu.co.za
     active: True
   - id: 1
-    image_path: ./assets/images/potch/potch.jpg
+    image_path: ./assets/images/slideshow/audi.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra 
     photographer_link: www.nwu.ac.za
   - id: 2
-    image_path: ./assets/images/potch/IMG_20220620_151817
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
+    image_path: ./assets/images/slideshow/ExtraRoom.jpg
+    description: North West University Potchefstroom, South Africa
+    photographer_name: Sunil Chandra
+    photographer_link: https://www.nwu.ac.za
   - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
+    image_path: ./assets/images/slideshow/outside.jpg
+    description: North West University Potchefstroom, South Africa
+    photographer_name: Sunil Chandra
+    photographer_link: https://www.nwu.ac.za
   - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
+    image_path: ./assets/images/slideshow/pilansberg1.jpg
     description: Winchester Mystery House
     photographer_name: Pomax
     photographer_link: https://www.flickr.com/photos/pomax/
   - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
+    image_path: ./assets/images/slideshow/pilansberg2.jpg
     description: Rose Garden Branch Library
     photographer_name: John Menard
     photographer_link: https://www.flickr.com/photos/jmenard48/
+  - id: 6
+    image_path: ./assets/images/slideshow/pilansberg3.jpg
+    description: Winchester Mystery House
+    photographer_name: Pomax
+    photographer_link: https://www.flickr.com/photos/pomax/
+  - id: 7
+    image_path: ./assets/images/slideshow/pilansberg4.jpg
+    description: Rose Garden Branch Library
+    photographer_name: John Menard
+    photographer_link: https://www.flickr.com/photos/jmenard48/
+n
 navbar:
   - id: 0
     label: Home
     path: /
     visible: True
   - id: 1
-    label: Important Dates
-    path: /organization.html
+    label: Organizers & Sponsors 
+    #path: /organization.html
     visible: True
   - id: 2
-    label: Organizers & Sponsors 
-    path: /cfp.html
+    label: Highlights
+    #path: /cfp.html
     visible: True
   - id: 3
     label: Programs
-    path: /program.html
+    #path: /program.html
     visible: True
   - id: 4
     label: Venue
-    path: /venue.html
+    #path: /venue.html
     visible: True
   - id: 5
     label: Registration
-    path: /registration.html
+    #path: /registration.html
     visible: True
 deadlines:
   - date: TBD
