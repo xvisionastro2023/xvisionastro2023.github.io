@@ -12,13 +12,13 @@ slideshow:
     image_path: ./assets/images/slideshow/potch.jpg
     description: North West University Potchefstroom Campus
     photographer_name: Sunil Chandra
-    photographer_link: www.nwu.co.za
+    photographer_link: https://www.nwu.co.za
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/audi.jpg
     description: North West University Potchefstroom, South Africa
     photographer_name: Sunil Chandra 
-    photographer_link: www.nwu.ac.za
+    photographer_link: https://www.nwu.ac.za
   - id: 2
     image_path: ./assets/images/slideshow/ExtraRoom.jpg
     description: North West University Potchefstroom, South Africa
