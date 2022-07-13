@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   union (IAU), Committee on Space Research (COSPAR) and South African Gamms Ray Astronomy Programme(SA-GAMMA) 
 location: North West University Potchefstroom, South Africa 
 date: February 06-17, 2023
-#logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/xvision.png
 slideshow:
   - id: 0
     image_path: ./assets/images/potch/NWULaw2use.jpg
