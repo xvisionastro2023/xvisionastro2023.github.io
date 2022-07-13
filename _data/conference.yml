@@ -6,29 +6,34 @@ description: > # this means to ignore newlines until "baseurl:"
   union (IAU), Committee on Space Research (COSPAR) and South African Gamms Ray Astronomy Programme(SA-GAMMA) 
 location: North West University Potchefstroom, South Africa 
 date: February 06-17, 2023
-logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/xvision.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/potch/NWULaw2use.jpg
-    description: North West University Potchefstroom Campus
-    photographer_name: Sunil Chandra
-    photographer_link: https://www.nwu.co.za
+    image_path: ./assets/images/slides/chandra-archive.jpg
+    description: Chandra Archive
+    photographer_name: Chandra
+    photographer_link: https://chandra.harvard.edu/photo/2020/archives/
     active: True
   - id: 1
-    image_path: ./assets/images/potch/Crab2use.jpg
-    description: North West University Potchefstroom, South Africa
-    photographer_name: Sunil Chandra 
-    photographer_link: https://www.nwu.ac.za
+    image_path: ./assets/images/slides/helix.jpg
+    description: Chandra Archive
+    photographer_name: Chandra
+    photographer_link: https://chandra.harvard.edu/photo/2020/archives/
   - id: 2
-    image_path: ./assets/images/potch/Cluster2use.jpg
-    description: North West University Potchefstroom, South Africa
-    photographer_name: Sunil Chandra
-    photographer_link: https://www.nwu.ac.za
+    image_path: ./assets/images/slides/cartwheel.jpg
+    description: Chandra Archive
+    photographer_name: Chandra
+    photographer_link: https://chandra.harvard.edu/photo/2020/archives/
   - id: 3
-    image_path: ./assets/images/potch/Giraffe2use.jpg
-    description: North West University Potchefstroom, South Africa
-    photographer_name: Sunil Chandra
-    photographer_link: https://www.nwu.ac.za
+    image_path: ./assets/images/slides/giraffe.jpg
+    description: Potchefstroom, South Africa
+    photographer_name: Kelly Arnold
+    photographer_link: https://unsplash.com/photos/ASKewSMebm0
+  - id: 4
+    image_path: ./assets/images/slides/nwu-potch.jpg
+    description: NWU, Potchefstroom, South Africa
+    photographer_name: NWU
+    photographer_link: https://nwu.ac/welcome/
 navbar:
   - id: 0
     label: Home
