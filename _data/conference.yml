@@ -121,10 +121,15 @@ local_organizing_committees:
     homepage: 
   - name: Mr. Sriram Sankar 
     org: South African Astronomical Observatory, Cape Town
+    role: Database and Computational Support
     homepage:
   - name: Mrs. Lee-Ann Van Wyk
     org: North West University, Potchefstroom, South Africa
+    role: Administration and Logistic Support
     homepage: 
+  - name: Mr. Mattew holleran
+    org: North West University, Potchefstroom, South Africa
+    role: IT and Computational Support
   - name: Prof. James Chibueze 
     org: Center for Space Research, North West University, Potchefstroom, SA
     homepage:
