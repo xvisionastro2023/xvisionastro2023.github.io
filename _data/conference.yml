@@ -1,4 +1,4 @@
-full_title: X-ray Vision of the Energetic Universe, a data driven approach 
+full_title: X-ray Vision of the Energetic Universe, IAU I-HOW and COSPAR Capacity Building Workshop  
 short_title: XVEU-CCW 2023
 email: xrayvision2023@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -93,6 +93,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/ESA_Logo2use.jpg
   - name: South African Astronomical Observatory (SAAO)
     logo_path: ./assets/images/sponsors/saao_logo2use.jpg
+  - name: Gordon and Betty Moore Foundation 
+    logo_path: ./assets/images/sponsors/Moorefoundation2use.jpg
 social_media:
   facebook_link: 
   twitter_link:
