@@ -103,10 +103,10 @@ program_chair:
   - name: Dr. Carlos Gabriel; PCB Chair (Chair.) 
     org: COSPAR
     homepage: https://www.astro.rug.nl/~mariano/
-  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair. & Science Coordinator)
+  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair.)
     org: University of Groningen, The Netherlands
     homepage: https://www.researchgate.net/profile/Carlos-Gabriel-4
-  - name: Dr. Matteo Guainazzi
+  - name: Dr. Matteo Guainazzi (Science Coordinator)
     org: European Space Agency, The Netherlands
     homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi
 local_organizing_committees:
@@ -132,18 +132,18 @@ local_organizing_committees:
     org: Center for Space Research, North West University, Potchefstroom, SA
     homepage:    
 Scientific_program_committees:
-  - name: TBD 
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
+  - name: Dr. Matteo Guainazzi (Science Coordinator)
+    org: European Space Agency, The Netherlands
+    homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi 
+  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair.)
+    org: University of Groningen, The Netherlands
+    homepage: https://www.researchgate.net/profile/Carlos-Gabriel-4
+  - name: Dr. Sunil Chandra 
+    org: South African Astronomical Observatory Cape Town, SA 
+    homepage: https://scsaao.github.io
+  - name: Prof. Markus Boettcher
+    org: Center for Space Research, North-West University Potchefstroom, SA
+    homepage: https://fskbhe1.puk.ac.za/people/mboett/
   - name: TBD
     org: TBD
     homepage: TBD
