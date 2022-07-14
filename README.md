@@ -1,6 +1,6 @@
-# Jekyll-Conference-Template
+# X-Vision Astro-2023
 
-An academic conference website template built using Jekyll.
+Conference website: "X-ray Vision of the Energetic Universe-2023, a data driven approach" 
 
 ## Features
 
@@ -27,28 +27,16 @@ An academic conference website template built using Jekyll.
 ## Preview
 
 ### home page
-![home page image](./preview/home.png)
+
 
 ### committees page
-![committees page image](./preview/committee.png)
 
 ### Deadlines
 
 ### Admin page
 
 ### mobile version
-<img src="./preview/mobile.png" alt="mobile version image" style="height: 800px;"/>
 
 ## Usage
 
-### with Jekyll Admin.
-
-
 ## TODO
-
- - [ ] add https://www.timeanddate.com/ link to deadlines.
- - [ ] seperate some layouts/includes into a theme, make the project extensible with different themes.
- - [x] Jekyll-admin integrated
- - [ ] use Jekyll posts to update news.
- - [ ] clean Jekyll pages, put html code into layout/includes, pure markdown in pages. 
- - [ ] Makefile integration for docker run, ssh upload, rsync
