@@ -131,29 +131,7 @@ local_organizing_committees:
   - name: Prof. Christo Venter 
     org: Center for Space Research, North West University, Potchefstroom, SA
     homepage:    
-steering_committees:
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage:  TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-  - name: TBD
-    org: TBD
-    homepage: TBD
-technical_program_committees:
+Scientific_program_committees:
   - name: TBD 
     org: TBD
     homepage: TBD
