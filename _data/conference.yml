@@ -1,9 +1,13 @@
-full_title: X-ray Vision of the Energetic Universe, IAU I-HOW and COSPAR Capacity Building Workshop  
+full_title: X-ray Vision of the Energetic Universe, a data-driven approach 
 short_title: XVEU-CCW 2023
 email: xrayvision2023@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Capacity Building Workshop in x-ray astronomy - 2023 jointly supported by International Astronomical 
-  union (IAU), Committee on Space Research (COSPAR) and South African Gamms Ray Astronomy Programme(SA-GAMMA) 
+description: 
+  <a href="https://www.iau.org/training/iau-hands-on-workshops/">
+IAU I-HOW</a> and <a href="https://cosparhq.cnes.fr/events/cospar-capacity-building-workshops/">
+COSPAR joint Capacity Building Workshop</a> Capacity Building Workshop in X-ray astronomy to be organized 
+in early 2023, supported by the International Astronomical union (IAU), 
+Committee on Space Research (COSPAR) and 
+South African Gamms Ray Astronomy Programme(SA-GAMMA) 
 location: Center for Space Research, North West University Potchefstroom, South Africa 
 date: February 06-17, 2023
 logo_path: ./assets/images/xvision.png
