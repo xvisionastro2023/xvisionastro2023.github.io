@@ -32,31 +32,6 @@ slideshow:
     description: NWU, Potchefstroom, South Africa
     photographer_name: NWU
     photographer_link: https://nwu.ac/welcome/
-  - id: 5
-    image_path: ./assets/images/slides/Crab2useMulti.jpg
-    description: Crab, Multiwavelength Image, Credit:XMM/ESA/NASA/Hubble/VLA/NRAO/AUI/NSF/Chandra/CXC/Spitzer/JPL-Caltech/STScI
-    photographer_name: G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; A. Loll et al.; T. Temim et al.; F. Seward et al
-    photographer_link: https://hubblesite.org/contents/media/images/2017/21/4027-Image.html?keyword=Pulsars    
-  - id: 6
-    image_path: ./assets/images/slides/Crab2useXonly.jpg
-    description: Crab Nebula in X-rays 
-    photographer_name: NASA, CfA, and J. DePasquale (STScI) 
-    photographer_link: https://hubblesite.org/contents/media/images/2020/03/4604-Image?keyword=crab    
-  - id: 7
-    image_path: ./assets/images/slides/Crab2useSouthernBowl.jpg
-    description: Southern Crab Nebula 
-    photographer_name: NASA, ESA, and A. Feild (STScI) 
-    photographer_link: https://hubblesite.org/contents/media/images/2019/15/4487-Image.html?keyword=crab
-  - id: 8
-    image_path: ./assets/images/slides/TidalDisruptionXMM2use.jpg
-    description: Tidal Disruption event ASASSN-14li
-    photographer_name: Photo-Image courtesy of ESA/XMM-Newton 
-    photographer_link: https://xmm-tools.cosmos.esa.int/external/xmm_science/gallery/images/XMM-Newton_TidalDisruptionEvent.jpg
-  - id: 9
-    image_path: ./assets/images/slides/LyraXMM_NewTon.jpg
-    description: Growth and disruption in the Lyra complex
-    photographer_name: S. Clavico et al., 2019, A&A 632, A27
-    photographer_link: https://doi.org/10.1051/0004-6361/201936467
 navbar:
   - id: 0
     label: Home
