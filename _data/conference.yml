@@ -109,6 +109,28 @@ program_chair:
   - name: Dr. Matteo Guainazzi
     org: European Space Agency, The Netherlands
     homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi
+local_organizing_committees:
+  - name: Dr. Sunil Chandra (LOC, Chair.)
+    org: SAAO, Cape Town 
+    homepage: https://scsaao.github.io
+  - name: Dr. Pranjupriya Goswami
+    org: Center for Space Research, North West University, Potchefstroom, SA
+    homepage:
+  - name: Dr. Anton Dmitriyev
+    org: Center for Space Research, North West University, Potchefstroom, SA
+    homepage: 
+  - name: Mr. Sriram Sankar 
+    org: South African Astronomical Observatory, Cape Town
+    homepage:
+  - name: Mrs. Lee-Ann Van Wyk
+    org: North West University, Potchefstroom, South Africa
+    homepage: 
+  - name: Prof. James Chibueze 
+    org: Center for Space Research, North West University, Potchefstroom, SA
+    homepage:
+  - name: Prof. Christo Venter 
+    org: Center for Space Research, North West University, Potchefstroom, SA
+    homepage:    
 steering_committees:
   - name: TBD
     org: TBD
