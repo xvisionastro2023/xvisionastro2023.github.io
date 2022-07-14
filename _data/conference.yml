@@ -50,7 +50,7 @@ slideshow:
   - id: 8
     image_path: ./assets/images/slides/TidalDisruptionXMM2use.jpg
     description: Tidal Disruption event ASASSN-14li
-    photographer_name: Photo: Image courtesy of ESA/XMM-Newton 
+    photographer_name: Photo-Image courtesy of ESA/XMM-Newton 
     photographer_link: https://xmm-tools.cosmos.esa.int/external/xmm_science/gallery/images/XMM-Newton_TidalDisruptionEvent.jpg
   - id: 9
     image_path: ./assets/images/slides/LyraXMM_NewTon.jpg
