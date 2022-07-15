@@ -58,24 +58,30 @@ navbar:
     path: /registration.html
     visible: True
 deadlines:
-  - date: TBD
+  - date: 2022-07-18
     timezone: SAST (+2:00)
-    text: Submission deadline
+    text: First Announcement
+    pass_due: True
+  - date: 2022-07-18
+    text: Registration Open
+    pass_due: False
+  - date: 2022-09-10
+    text: Registration Ends
     pass_due: False
   - date: 2022-10-15
-    text: Notification of acceptance
+    text: Acceptance Notification 
     pass_due: False
-  - date: 2022-11-15
-    text: TBD
-    pass_due: False
-  - date: 2022-11-15
-    text: Workshop Starts
+  - date: 2023-02-05
+    text: Welcome Reception 
+    pass_due: False 
+  - date: 2023-02-06
+    text: Starting of the workshop 
     pass_due: False
 news:
-  - date: 2022-11-15
-    text: TBD
-  - date: 2022-07-15
-    text: First Announcement made
+  - date: 2022-07-18
+    text: The announcement of the Worshop is made
+  - date: 2022-07-18
+    text: The registration of the participants is open 
 sponsors:
   - name: International Astronomical Union (IAU)
     logo_path: ./assets/images/sponsors/iau_logo2use.jpg
