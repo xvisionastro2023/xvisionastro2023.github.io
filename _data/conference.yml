@@ -101,59 +101,59 @@ program_chair:
     org: South African Astronomical Observatory(SAAO) Cape Town 
     homepage: https://scsaao.github.io
   - name: Dr. Carlos Gabriel; PCB Chair (Chair.) 
-    org: COSPAR
-    homepage: https://www.astro.rug.nl/~mariano/
-  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair.)
-    org: University of Groningen, The Netherlands
+    org: COSPAR, Germany
     homepage: https://www.researchgate.net/profile/Carlos-Gabriel-4
   - name: Dr. Matteo Guainazzi (Science Coordinator)
     org: European Space Agency, The Netherlands
-    homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi
+    homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi 
+  - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair.)
+    org: University of Groningen, The Netherlands
+    homepage: https://www.astro.rug.nl/~mariano/
 local_organizing_committees:
+  - name: Prof. Markus Boettcher 
+    org: North West University, Potchefstroom, SA
+    homepage: https://fskbhe1.puk.ac.za/people/mboett/
   - name: Dr. Sunil Chandra (LOC, Chair.)
     org: South African Astronomical Observatory, Cape Town, SA 
     homepage: https://scsaao.github.io
+  - name: Prof. James Chibueze 
+    org: North West University, Potchefstroom, SA
+    homepage:    
+  - name: Dr. Anton Dmytriiev
+    org: North West University, Potchefstroom, SA
+    homepage:     
   - name: Dr. Pranjupriya Goswami
     org: North West University, Potchefstroom, SA
     homepage:
-  - name: Dr. Anton Dmytriiev
-    org: North West University, Potchefstroom, SA
-    homepage: 
-  - name: Mr. Sriram Sankar 
-    org: South African Astronomical Observatory, Cape Town, SA
-    role: Database and Computational Support
-    homepage:
-  - name: Mrs. Lee-Ann Van Wyk
-    org: North West University, Potchefstroom, SA
-    role: Administration and Logistic Support
-    homepage: 
   - name: Mr. Mattew holleran
     org: North West University, Potchefstroom, SA
     role: IT and Computational Support
   - name: Dr. Rukaiya Khatoon
-    org: North West University, Potchefstroom, SA
-  - name: Prof. James Chibueze 
-    org: North West University, Potchefstroom, SA
+    org: North West University, Potchefstroom, SA   
+  - name: Mr. Sriram Sankar 
+    org: South African Astronomical Observatory, Cape Town, SA
+    role: Database and Computational Support
     homepage:
   - name: Prof. Christo Venter 
     org: North West University, Potchefstroom, SA
-    homepage: 
-  - name: Prof. Markus Boettcher 
+    homepage:     
+  - name: Mrs. Lee-Ann Van Wyk
     org: North West University, Potchefstroom, SA
-    homepage: https://fskbhe1.puk.ac.za/people/mboett/
+    role: Administration and Logistic Support
+    homepage: 
 Scientific_program_committees:
+  - name: Prof. Markus Boettcher
+    org: Center for Space Research, North-West University Potchefstroom, SA
+    homepage: https://fskbhe1.puk.ac.za/people/mboett/
+  - name: Dr. Sunil Chandra 
+    org: South African Astronomical Observatory Cape Town, SA 
+    homepage: https://scsaao.github.io
   - name: Dr. Matteo Guainazzi (Science Coordinator)
     org: European Space Agency, The Netherlands
     homepage: https://www.cosmos.esa.int/web/personal-profiles/matteo-guainazzi 
   - name: Prof. Mariano Mendez; I-How Chair. (Co-Chair.)
     org: University of Groningen, The Netherlands
     homepage: https://www.researchgate.net/profile/Carlos-Gabriel-4
-  - name: Dr. Sunil Chandra 
-    org: South African Astronomical Observatory Cape Town, SA 
-    homepage: https://scsaao.github.io
-  - name: Prof. Markus Boettcher
-    org: Center for Space Research, North-West University Potchefstroom, SA
-    homepage: https://fskbhe1.puk.ac.za/people/mboett/
   - name: TBD
     org: TBD
     homepage: TBD
