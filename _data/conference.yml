@@ -34,7 +34,7 @@ slideshow:
     description: Potchefstroom, South Africa
     photographer_name: Kelly Arnold
     photographer_link: https://unsplash.com/photos/ASKewSMebm0
-  - id: 5
+  - id: 6
     image_path: ./assets/images/slides/zebra.jpg
 navbar:
   - id: 0
