@@ -26,5 +26,3 @@ exclude:
   - Gemfile.lock
 
 timezone: Africa/Harare #America/New_York
-google_analytics: UA-99357652-1
-
