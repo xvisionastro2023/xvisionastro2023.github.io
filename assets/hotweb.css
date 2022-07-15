@@ -21,7 +21,11 @@
 
 
 .jumbotron p {
+    font-size: 0.8em;
+}
+.jumbotron h6 {
     font-size: 1.1em;
+    color: #faa86f;   
 }
 .jumbotron h5 {
     font-size: 1.6em;
