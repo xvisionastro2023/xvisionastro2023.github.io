@@ -7,7 +7,7 @@ date: February 06-17, 2023
 logo_path: ./assets/images/xvision.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
+    image_path: ./assets/images/slideshow/image1.jpg
     description: Chandra Archive
     photographer_name: Chandra
     photographer_link: https://chandra.harvard.edu/photo/2020/archives/
