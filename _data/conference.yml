@@ -50,8 +50,8 @@ navbar:
     path: /
     visible: True
   - id: 4
-    label: Venue
-    path: /venue.html
+    label: Logistics
+    path: /logistics.html
     visible: True
   - id: 5
     label: Registration
