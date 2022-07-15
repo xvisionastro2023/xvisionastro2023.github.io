@@ -61,7 +61,7 @@ deadlines:
   - date: 2022-07-18
     timezone: SAST (+2:00)
     text: First Announcement
-    pass_due: True
+    pass_due: False
   - date: 2022-07-18
     text: Registration Open
     pass_due: False
