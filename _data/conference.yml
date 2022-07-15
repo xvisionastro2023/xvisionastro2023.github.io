@@ -7,35 +7,11 @@ date: February 06-17, 2023
 logo_path: ./assets/images/xvision.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slides/chandra-archive.jpg
+    image_path: ./assets/images/slideshow/image0.jpg
     description: Chandra Archive
     photographer_name: Chandra
     photographer_link: https://chandra.harvard.edu/photo/2020/archives/
     active: True
-  - id: 1
-    image_path: ./assets/images/slides/helix.jpg
-    description: Chandra Archive
-    photographer_name: Chandra
-    photographer_link: https://chandra.harvard.edu/photo/2020/archives/
-  - id: 2
-    image_path: ./assets/images/slides/cartwheel.jpg
-    description: Chandra Archive
-    photographer_name: Chandra
-    photographer_link: https://chandra.harvard.edu/photo/2020/archives/
-  - id: 3
-    image_path: ./assets/images/slides/tde.jpg
-  - id: 4
-    image_path: ./assets/images/slides/nwu-potch.jpg
-    description: NWU, Potchefstroom, South Africa
-    photographer_name: NWU
-    photographer_link: https://nwu.ac/welcome/
-  - id: 5
-    image_path: ./assets/images/slides/giraffe.jpg
-    description: Potchefstroom, South Africa
-    photographer_name: Kelly Arnold
-    photographer_link: https://unsplash.com/photos/ASKewSMebm0
-  - id: 6
-    image_path: ./assets/images/slides/zebra.jpg
 navbar:
   - id: 0
     label: Home
