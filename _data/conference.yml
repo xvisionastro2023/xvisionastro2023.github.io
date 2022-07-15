@@ -1,7 +1,7 @@
 full_title: X-ray Vision of the Energetic Universe #, a data-driven approach 
-short_title: IHowCOS-CCW2023
+short_title: X-Vision 2023
 email: xrayvision2023@gmail.com
-description: A Joint <a href="https://www.iau.org/training/iau-hands-on-workshops/">IAU I-HOW</a> and <a href="https://cosparhq.cnes.fr/events/cospar-capacity-building-workshops/">COSPAR<a/> Capacity Building Workshop in X-ray Astronomy</br>at</br> 
+description: A Joint <a href="https://www.iau.org/training/iau-hands-on-workshops/">IAU I-HOW</a> and <a href="https://cosparhq.cnes.fr/events/cospar-capacity-building-workshops/">COSPAR<a/> Capacity Building Workshop in X-ray Astronomy 
 location: Center for Space Research, North West University Potchefstroom, South Africa 
 date: February 06-17, 2023
 logo_path: ./assets/images/xvision.png
@@ -23,15 +23,19 @@ slideshow:
     photographer_name: Chandra
     photographer_link: https://chandra.harvard.edu/photo/2020/archives/
   - id: 3
-    image_path: ./assets/images/slides/giraffe.jpg
-    description: Potchefstroom, South Africa
-    photographer_name: Kelly Arnold
-    photographer_link: https://unsplash.com/photos/ASKewSMebm0
+    image_path: ./assets/images/slides/tde.jpg
   - id: 4
     image_path: ./assets/images/slides/nwu-potch.jpg
     description: NWU, Potchefstroom, South Africa
     photographer_name: NWU
     photographer_link: https://nwu.ac/welcome/
+  - id: 5
+    image_path: ./assets/images/slides/giraffe.jpg
+    description: Potchefstroom, South Africa
+    photographer_name: Kelly Arnold
+    photographer_link: https://unsplash.com/photos/ASKewSMebm0
+  - id: 5
+    image_path: ./assets/images/slides/zebra.jpg
 navbar:
   - id: 0
     label: Home
@@ -39,7 +43,7 @@ navbar:
     visible: True
   - id: 1
     label: Organizers & Sponsors 
-    path: /organization.html
+    path: /organizers.html
     visible: True
   - id: 2
     label: Highlights
