@@ -51,11 +51,14 @@
         <div class="horizontal-group">
           <div class="form-group">
             <label class="label-title">Gender:</label>
-            <div class="input-group">
-              <label for="male"><input type="radio" name="gender" value="male" id="male"> Male</label>
-              <label for="female"><input type="radio" name="gender" value="female" id="female"> Female</label>
-              <label for="female"><input type="radio" name="gender" value="other" id="other"> Other</label>
-              <label for="female"><input type="radio" name="gender" value="noreveal" id="noreveal"> Don't want to reveal</label>
+            <div>
+              <select name="gender" required="">
+                <option value="" selected="" disabled="">Please Select one Option</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="postdoc">Other</option>
+                <option value="donot">Don't want to Reveal</option>
+              </select>
             </div>
           </div>
         </div>
@@ -114,7 +117,7 @@
           </div>
         </div>
         <div class="horizontal-group">
-          <div class="form-group right">
+          <div class="form-group">
           <label for="motilettr" class="label-title">Letter of Motivation</label>
           <p style="font-size:12px;color:gray;">A letter of motivation describing how this worshop shall help you in your research career. The letter should have no more than 800 words.</p>
           <input type="file" name="MotivLetter" id="motilettr" accept="image/png, image/jpeg, .pdf, image/jpg"\>
