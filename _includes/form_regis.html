@@ -1,3 +1,10 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>HTML CSS Register Form</title>
+    <link rel="stylesheet" href="./assets/table_style.css">
+</head>
+<body>
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/mqknrzzd" method="post">
   <!--fieldset id="fs-frm-inputs"-->
     <label for="full-name">Full Name</label>
@@ -59,3 +66,14 @@
     </fieldset>
   <input type="submit" value="Register">
 </form>
+<!-- Script for range input label -->
+<script>
+      var rangeLabel = document.getElementById("range-label");
+      var experience = document.getElementById("experience");
+
+      function change() {
+      rangeLabel.innerText = experience.value + "K";
+      }
+</script>
+</body>
+</html>
