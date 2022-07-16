@@ -112,8 +112,6 @@
           <div class="form-group" >
             <label for="cv" class="label-title">CV</label>
             <input type="file" id="cv" name="attachment" accept="image/png, image/jpeg, .pdf, image/jpg"\>
-            <fieldset><br></br>
-            </fieldset>
           </div>
         </div>
         <div class="horizontal-group">
@@ -121,22 +119,27 @@
           <label for="motilettr" class="label-title">Letter of Motivation</label>
           <p style="font-size:12px;color:gray;">A letter of motivation describing how this worshop shall help you in your research career. The letter should have no more than 800 words.</p>
           <input type="file" name="MotivLetter" id="motilettr" accept="image/png, image/jpeg, .pdf, image/jpg"\>
-          </fieldset><br></br>
         </div>
         </div>
-
-
-        <!-- Bio -->
+        <div class="horizontal-group">
+          <div class="form-group">
+            <label for="recName" class="label-title">Name of Referee(s)</label>
+            <p style="font-size:12px;color:gray;">At least one reference letter from supervisor and/or head of the department should be sent directly to "xrayvision2023@gmail.com". The reference letters recieved by 10 September 2022 shall be considered.</p>
+            <input type='text' name="recName" id="recName"\>
+          </div>
+        </div>
+        <!-- Note -->
         <div class="form-group">
-          <label for="choose-file" class="label-title">Bio</label>
-          <textarea class="form-input" rows="4" cols="50" style="height:auto"></textarea>
+          <label for="choose-file" class="label-title">Additional Information</label>
+          <textarea id="choose-file" class="form-input" rows="4" cols="50" style="height:auto" placeholder="Dietary Restriction: Vegan/Vegetarian/Other etc"></textarea>
         </div>
       </div>
 
       <!-- form-footer -->
       <div class="form-footer">
         <span>* required</span>
-        <button type="submit" class="btn">Create</button>
+        <input type="submit" value="Register">
+        <!--button type="submit" class="btn">Submit</button-->
       </div>
 
     </form>
