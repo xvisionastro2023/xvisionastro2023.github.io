@@ -1,5 +1,16 @@
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/mqknrzzd" method="post">
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>HTML CSS Register Form</title>
+    <link rel="stylesheet" href="./assets/table_style.css">
+</head>
+<body>
+
+<form id="fs-frm" class="registration-form" accept-charset="utf-8" action="https://formspree.io/f/mqknrzzd" method="post">
   <!--fieldset id="fs-frm-inputs"-->
+    <div class="form-header">
+        <h1>Create Account</h1>
+    </div>
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="true">
     <label for="email-address">Email Address</label>
@@ -36,26 +47,37 @@
     <input type="text" name="state" placeholder="State" required="">  
     <input type='text' name="country" id="country" placeholder="Country" required="">  
     <input type="text" name="postal-code" placeholder="PIN" required="">
-    </fieldset>
+    </fieldset><br></br>
     
     <label for="cv">CV</label>    
     <input type="file" name="attachment" accept="image/png, image/jpeg, .pdf, image/jpg">
-    <fieldset>
+    <fieldset><br></br>
     <label for="motilettr">Letter of Motivation</label>  
     <p style="font-size:12px;color:gray;">A letter of motivation describing how this worshop shall help you in your research career. The letter should have no more than 800 words.</p>  
     <input type="file" name="MotivLetter" id="motilettr" accept="image/png, image/jpeg, .pdf, image/jpg">
-    </fieldset> 
+    </fieldset><br></br> 
     
     <fieldset>
     <label for="recName">Name of Referee(s)</label>
     <p style="font-size:12px;color:gray;">At least one reference letter from supervisor and/or head of the department should be sent directly to "xrayvision2023@gmail.com". The reference letters recieved by 10 September 2022 shall be considered.</p>    
-    <input type='text' name="recName" id="recName">
+    <input type='text' name="recName" id="recName"><br></br>
     <label for="diet">Dietary Restrictions</label> 
       <p style="font-size:12px;color:gray;">Please mention the food allergies, if any</p>
-    <input type='text' name='diet' id="diet" placeholder="Vegan/Vegetarian/Other">  
+    <input type='text' name='diet' id="diet" placeholder="Vegan/Vegetarian/Other"><br></br>  
     <label for="note">Note</label>
     <textarea rows="3" name="note" id="note" placeholder="Include any additional information"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
     </fieldset>
   <input type="submit" value="Register">
 </form>
+<!-- Script for range input label -->
+<script>
+      var rangeLabel = document.getElementById("range-label");
+      var experience = document.getElementById("experience");
+
+      function change() {
+      rangeLabel.innerText = experience.value + "K";
+      }
+</script>
+</body>
+</html>
