@@ -7,9 +7,9 @@
 /*---------------------------------------*/
 /* Register Form */
 /*---------------------------------------*/
-body {
+/*body {
   background:linear-gradient(to right, #78a7ba 0%, #385D6C 50%, #78a7ba 99%);
-}
+  }*/
 
 .signup-form {
   font-family: "Roboto", sans-serif;
