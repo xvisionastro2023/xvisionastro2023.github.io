@@ -58,8 +58,13 @@
                                     {% if page.url == nav.path %}
                                         <li class="nav-item active">
                                             <a class="nav-link m-1" href=".{{ nav.path }}">
-                                                <strong>{{ nav.label | escape }}</strong>
-                                                <span class="sr-only">(current)</span>
+                                                {% if nav.label == 'Registration' %}
+                                                    <strong>{{ nav.label | escape }}</strong>
+                                                    <span class="sr-only" style="font-size:15px; color=red;">(current)</span>
+                                                {% else %}
+                                                    <strong>{{ nav.label | escape }}</strong>
+                                                    <span class="sr-only">(current)</span>
+                                                {% endif %}
                                             </a>
                                         </li>
                                     {% else %}
