@@ -81,6 +81,7 @@
   -ms-flex-pack: distribute;
   justify-content: space-around;
   background-color: #00ced1;
+  margin-bottom: 25vh;
 }
 
 .section.welcome {
