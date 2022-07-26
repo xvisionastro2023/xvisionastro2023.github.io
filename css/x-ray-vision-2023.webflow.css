@@ -79,7 +79,7 @@
   display: flex;
   -webkit-justify-content: space-around;
   -ms-flex-pack: distribute;
-  height: 90vh;
+  justify-content: space-around;
   background-color: #00ced1;
 }
 
