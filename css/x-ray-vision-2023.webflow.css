@@ -71,6 +71,18 @@
   background-color: #008ef7;
 }
 
+.section.Imptweaks {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  background-color: #00ced1;
+}
+
 .section.welcome {
   height: auto;
   min-height: 100vh;
