@@ -345,12 +345,10 @@ optgroup {
 /**
  * Remove most spacing between table cells.
  */
-.table-responsive-wrap {
-  width: 80%;
-  margin: 0 auto;
-}
 .table-responsive {
   overflow-x: auto;
+  width: 90%;
+  margin: 0 auto;
 }
 table {
   border-collapse: collapse;
@@ -368,3 +366,4 @@ tr:nth-child(even){background-color: #f2f2f2}
 tr td:nth-child(4){background-color: #f2f2f2}
 tr td:nth-child(6){background-color: #f2f2f2}
 tr td:nth-child(10){background-color: #f2f2f2}
+thead {background-color: #f2f2f2}
