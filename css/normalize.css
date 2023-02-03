@@ -345,9 +345,12 @@ optgroup {
 /**
  * Remove most spacing between table cells.
  */
+.table-responsive-wrap {
+  width: 80%;
+  margin: 0 auto;
+}
 .table-responsive {
   overflow-x: auto;
-  display: block;
 }
 table {
   border-collapse: collapse;
